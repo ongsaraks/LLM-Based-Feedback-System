@@ -21,8 +21,7 @@ This project explores how large language models (LLMs) can be used to gather str
 
 ## Technologies Used
 - Typhoon LLM API
-- Python
-- Flask
+- Python  
 - Speech-to-Text / Text-to-Speech
 - CSV data handling
 
